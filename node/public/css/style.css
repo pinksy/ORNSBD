@@ -1,0 +1,89 @@
+body {
+  padding: 10px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: #4d4d4d;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1 {
+  display: block;
+  font-size: 2em;
+  margin: 10px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+#basic_container {
+  width: 700px;
+  height: 150px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.basic_box_container {
+  width: 340px;
+}
+
+.basic_box {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  width: 300px;
+  height: 108px;
+  background: #444;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+  margin-top: 10px;
+}
+
+#box_left {
+  float: left;
+}
+
+#box_right {
+  float: right;
+}
+
+.basic_variety {
+  font-size: 2em;
+}
+
+.basic_sales {
+  font-size: 5em;
+}
+
+#link {
+  clear: both;
+  text-align: center;
+  padding-top: 50px;
+}
+
+#fruit_container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.variety {
+  float: left;
+}
+
+.avgVariety {
+  float: right;
+}
+
+#vegetable_container {
+  clear: both;
+  padding-top: 50px;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
