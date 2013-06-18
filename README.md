@@ -12,7 +12,7 @@ Setup
 
 I ran my demo on Windows 7, with Oracle 11g Personal Edition. I will assume you have the same. YMMV
 
-It's probably best to compile the Java with the JDK that corresponds to the JRE in your Oracle database. I determined this by following MetaLink ID 331673.1
+You'll need to have a JDK installed. It's probably best to have the JDK that corresponds to the JRE in your Oracle database. I determined this by following MetaLink ID 331673.1
 
 1. As SYSDBA:
 
